@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Date security is an important topics nowaday. With the increasing usage of flash 
+Data security is an important topics nowaday. With the increasing usage of flash 
 disk (which are amovible), it is more likely good to find a good and right way 
-to lock data against copy. Python is a cripting language that could be used to 
+to lock data against copy. Python is a scripting language that could be used to 
 do such task. As, python is cross plaform scripting language. The aim of this 
-project is to build a pythoon based application to secure the data on a USB key 
+project is to build a python based application to secure the data on a USB key 
 against reproduction.
 
 The idea is to block the copy of the data on the USB key, so the data will be 
@@ -15,11 +15,11 @@ they will go into edit mode and execution.
 
 ## Language and requirement
 
-This application will be based on `python3`. And should be tested on `Linux` and 
+This application will be based on `python3`. And it should be tested on `Linux` and 
 `windows` environments. A unit test should also be added to the project in 
 order to validate the results.
 
-## Structure
+## Structure - Solution skeleton
 
 To achieve the results we're expecting, the project will be break down into more 
 simple sub-program (`functions`).
